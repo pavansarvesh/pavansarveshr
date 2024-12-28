@@ -8,7 +8,7 @@
 
 💡 **What I Do:**  
 - 🧠 Developing **AI-powered solutions** for financial inclusion and sustainability.  
-- 🛠️ Crafting innovative software, from shopping cart systems to OCEN-integrated platforms.  
+- 🛠️ Crafting innovative software.  
 
 🌈 **Tech Stack:**  
 - 💻 **Languages**: Python, C++, JavaScript  
