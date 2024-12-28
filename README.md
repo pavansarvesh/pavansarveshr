@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm **Pavan Sarvesh**  
 
-🚀 **Electronics Enthusiast | AI Innovator | Sustainable Tech Advocate**  
+🚀 **Web Dev| AI Innovator | Sustainable Tech Advocate**  
 
 🌟 **About Me:**  
 - 💻 Currently working with **NextJS** and exploring **GenAI** to revolutionize credit access for MSMEs and empower conscious consumption through **ConsumeWise**.  
@@ -22,6 +22,6 @@
 - 🎮 When not coding, you’ll find me exploring new tech or gaming.  
 
 📫 **Let’s Connect:**   
-- 📧 Email me at [pavansarvesh@gmail.com.com](mailto:pavansarvesh@gmail.com)  
+- 📧 Email me at [pavansarvesh@gmail.com](mailto:pavansarvesh@gmail.com)  
 
 💻 **“Code to create, innovate, and inspire!”**  
